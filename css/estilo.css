@@ -4,14 +4,14 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: purple;
 }
 h1 {
     text-align: center;
     font-family: "roboto" , sans-serif;
     margin-top: 15px;
-    color: red;
-    background-color: royalblue;
+    color: white;
+    background-color: crimson;
 }
 
 main {
@@ -25,5 +25,5 @@ img {
     height: 500px;
     margin: 15px 0px;
     padding: 30px;
-    border: black solid 5px
+    border: blue solid 5px
 }
